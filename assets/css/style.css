@@ -5,6 +5,7 @@
 
 #logo{
     vertical-align: bottom;
+    margin-left: 10px;
 }
 
 h1{
@@ -50,7 +51,7 @@ h1{
 }
 
 .container-3{
-    margin-top: 1px;
+    margin-top: 2px;
     margin-bottom: 30px;
     padding: 10px;
     padding-bottom: 60px;
